@@ -5,6 +5,7 @@ from books_recommender.utils.util import read_yaml_file
 from books_recommender.exception.exception_handler import AppException
 from books_recommender.entity.config_entity import DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig, ModelRecommendationConfig
 from books_recommender.constant import *
+from books_recommender.components.data_ingestion import DataIngestion
 
 
 class AppConfiguration:
