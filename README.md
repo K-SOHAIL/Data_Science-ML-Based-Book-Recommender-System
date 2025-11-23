@@ -14,10 +14,10 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
+Kaggle Data Link
 
 ```bash
-https://github.com/entbappy/End-to-End-Book-Recommender-System.git
+https://www.kaggle.com/datasets/ra4u12/bookrecommendation
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
